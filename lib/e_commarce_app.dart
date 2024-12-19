@@ -9,7 +9,7 @@ class ECommarce100 extends StatelessWidget {
     return MaterialApp(
       title: 'E-commarce100',
       
-      home: Scaffold(appBar: AppBar(title: Text("E-commarce100")),),
+      home: Scaffold(appBar: AppBar(title: const Text("E-commarce100")),),
     );
   }
 }

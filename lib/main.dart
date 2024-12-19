@@ -10,7 +10,7 @@ void main() async{
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
 );
-  runApp( ECommarce100());
+  runApp( const ECommarce100());
   
 }
 
